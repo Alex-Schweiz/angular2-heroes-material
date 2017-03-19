@@ -1,10 +1,10 @@
-import { Amgular2ExamplePage } from './app.po';
+import { HeroTutorialPage } from './app.po';
 
-describe('amgular2-example App', () => {
-  let page: Amgular2ExamplePage;
+describe('hero-tutorial App', function() {
+  let page: HeroTutorialPage;
 
   beforeEach(() => {
-    page = new Amgular2ExamplePage();
+    page = new HeroTutorialPage();
   });
 
   it('should display message saying app works', () => {

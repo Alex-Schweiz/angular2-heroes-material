@@ -1,30 +1,19 @@
-Angular 2 material heroes app
+[![Build Status](https://travis-ci.org/jamzi/Angular2Workshop.svg?branch=master)](https://travis-ci.org/jamzi/Angular2Workshop)
 
-# Amgular2Example
+<p><a href="https://angular2workshop.firebaseapp.com/">View App</a></p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
+# Angular2 workshop
 
-## Development server
+Angular 2 Tour of heroes sample for FRI Garaza hands-on workshop
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Angular 2 presentation (english) [here](https://docs.google.com/presentation/d/1b_LakxG8837AF5oQTYRvpS8kE3bIryg8LwYk3i-tUhI/edit?usp=sharing)  
+* Angular 2 presentation (slovene) [here](https://docs.google.com/presentation/d/1tkJnh0PmF3lZWG_AT1CGDbLAKPhQyOO2ohUUYDM5pHc/edit?usp=sharing)  
+* Guide is available [here](https://github.com/jamzi/Angular2Workshop/blob/master/GETTING_STARTED.md)
+* Video tutorials are available [here](https://www.youtube.com/playlist?list=PLaux2QRFlrWym9tLsDKAkl2Eo24VDTcRZ&disable_polymer=true)
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# Run the final sample 
+* install [NodeJS](https://nodejs.org/en/)
+* npm install -g @angular/cli
+* git clone https://github.com/jamzi/Angular2Workshop.git
+* npm install 
+* ng serve

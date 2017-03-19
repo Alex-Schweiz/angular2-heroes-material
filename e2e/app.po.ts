@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class Amgular2ExamplePage {
+export class HeroTutorialPage {
   navigateTo() {
     return browser.get('/');
   }
